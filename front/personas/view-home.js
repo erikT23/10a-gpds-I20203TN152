@@ -1,1 +1,3 @@
-cont algo ()=>{}
+const algo ()=>{}
+
+const algo2 ()=>{}
